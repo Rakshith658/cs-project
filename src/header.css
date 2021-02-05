@@ -1,0 +1,19 @@
+.headermain {
+  /* color: white;
+  background-color: #282c34; */
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  height: 60px;
+  width: "100%";
+  align-items: center;
+  margin-top: 10px;
+}
+.headermain > h1 {
+  /* flex-direction: row;
+  align-items: center;
+  justify-content: space-between; */
+  /* margin-bottom: 100px; */
+  /* color: gray; */
+  margin-top: 10px;
+}
