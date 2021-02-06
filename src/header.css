@@ -8,6 +8,7 @@
   width: "100%";
   align-items: center;
   margin-top: 10px;
+  font-style: italic;
 }
 .headermain > h1 {
   /* flex-direction: row;

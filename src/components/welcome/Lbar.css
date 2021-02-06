@@ -1,0 +1,15 @@
+.Lbarmain {
+  padding: 30px;
+  cursor: pointer;
+  width: "30%";
+  background-color: #38c98d;
+  /* border-radius: 20px; */
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.Lbarmain :hover {
+  background-color: #6ae7b3;
+  padding: 20px;
+  border-radius: 20px;
+}
