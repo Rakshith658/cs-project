@@ -1,0 +1,39 @@
+.Fbarmain {
+  color: #fff;
+  background-color: #009387;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+  width: 400px;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.Fbarmain > h3 {
+  /* flex-direction: row;
+  align-items: center;
+  justify-content: space-between; */
+  /* margin-bottom: 100px; */
+  /* color: gray; */
+  margin-top: 10px;
+  /* font-size: ; */
+}
+
+.Fbarmain :hover {
+  background-color: #fff;
+  color: #009387;
+  /* height: 50px; */
+  /* align-items: center; */
+  /* padding-bottom: 10px; */
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  /* padding-top: 10px; */
+  padding-bottom: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+  border-radius: 20px;
+}

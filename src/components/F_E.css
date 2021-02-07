@@ -1,0 +1,28 @@
+.FEmain {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ends {
+  flex: 4/5;
+}
+
+.bar {
+  /* margin-left: 530px; */
+  display: flex;
+  -ms-flex-align: center;
+  width: "100%";
+  height: "100%";
+  flex-basis: unset;
+  flex: 1;
+  margin-bottom: 0px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bar > Fbar {
+  align-items: center;
+  flex-direction: row;
+}

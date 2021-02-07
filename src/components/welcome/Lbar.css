@@ -2,10 +2,12 @@
   padding: 30px;
   cursor: pointer;
   width: "30%";
-  background-color: #38c98d;
+  background-color: #009387;
+  margin-top: 1px;
   /* border-radius: 20px; */
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
+  color: #fff;
 }
 
 .Lbarmain :hover {
