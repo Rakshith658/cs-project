@@ -4,7 +4,7 @@ import './Lbar.css';
 const Lbar = (props) => {
     
     return (
-        <div className="Lbarmain" >
+        <div className="Lbarmain" style={{marginInline:20}} >
             <h1 onClick={()=>{props.onTchange(1)}}>Introduction</h1>
             <h1 onClick={()=>{props.onTchange(2)}}>C</h1>
             <h1 onClick={()=>{props.onTchange(3)}}>C++</h1>

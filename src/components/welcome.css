@@ -1,6 +1,13 @@
 .welcomemain {
   flex-direction: row;
-  flex: auto;
+  /* flex: auto; */
   display: flex;
   /* background-color: rgb(218, 248, 248); */
+}
+
+.rmain {
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  margin-bottom: 2px;
 }

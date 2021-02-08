@@ -1,8 +1,9 @@
 .Intmain {
+  margin-top: 0%;
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
   /* background-color: rgb(218, 248, 248); */
   /* background-color: ; */
 }
@@ -10,48 +11,48 @@
 .Cmain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }
 
 .Cpmain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }
 
 .JavaScriptmain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }
 
 .Pythonmain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }
 
 .Javamain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }
 
 .PHPmain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }
 
 .netmain {
   width: "70%";
   height: "100%";
-  color: #009387;
-  padding: 30px;
+  /* color: #009387; */
+  padding-left: 30px;
 }

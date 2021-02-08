@@ -13,14 +13,14 @@ export const FrontEnd = () => {
                 </h3>
             </p>
             <div className="list">
-                <h2>Front end Languages</h2>
-                <div className="Flist">
+                <h2 style={{marginBottom:20,marginTop:20}}>Front end Languages</h2>
+                <div className="Flist" style={{marginInline:15}}>
                     <ol>HTML</ol>
                     <ol>CSS</ol>
                     <ol>Javascript</ol>
                 </div>
-                <h2>Front End Frameworks and Libraries: </h2>
-                <div className="Flist">
+                <h2 style={{marginBottom:20,marginTop:20}}>Front End Frameworks and Libraries: </h2>
+                <div className="Flist" style={{marginInline:20}}>
                     <ol>AngularJS</ol>
                     <ol>React.js</ol>
                     <ol>jQuery</ol>
@@ -42,7 +42,7 @@ export const BackEnd = () => {
                     The parts and characteristics developed by backend designers are indirectly accessed by users through a front-end application.
                 </h3>
             </p>
-            <h2>Back end Languages:</h2>
+            <h2 style={{marginTop:20,marginBottom:20}}>Back end Languages:</h2>
                 <div className="Flist">
                     <ol>Node.js</ol>
                     <ol>Python</ol>

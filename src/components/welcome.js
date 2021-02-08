@@ -59,8 +59,12 @@ const Welcome = () => {
 
     return (
         <div className="welcomemain">
-           <Lbar onTchange={Texchange}/> 
-           {RightBar}
+            <div className="barmain">
+                <Lbar onTchange={Texchange}/> 
+            </div>
+            <div className="rmain">
+                {RightBar}
+            </div>
         </div>
     )
 }
